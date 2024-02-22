@@ -10,20 +10,19 @@ function App() {
       name: 'PRO T-shirt', 
       price: 599, 
       image: 
-'https://in.puma.com/in/en/pd/active-big-logo-mens-t-shirt/680800?swatch=01&referrer-category=mens-clothing-t-shirts-and-tops'
+      'https://rukminim2.flixcart.com/image/850/1000/kn0n6a80/t-shirt/h/n/0/l-plain-t-shirt-the-shopping-field-original-imagfrr8hpdrggzg.jpeg?q=90&crop=false'
     },
     { id: 2, 
       name: 'PRO Bag', 
       price: 799, 
       image: 
-'https://www.maxfashion.in/in/en/SHOP-Max-Black-Men-Avengers-Printed-Backpack/p/1000013446941?c=531021567&is_retargeting=true&msclkid=306f6c60caab1d6ca18609b11ea83b7a&pid=googleadwords_int&utm_campaign=Sok_Shopping(Bing)_AllProducts_Nov%2723&utm_content=Ad%20group%20%231&utm_medium=cpc&utm_source=bing&utm_term=4587918433878374'
+'https://rukminim1.flixcart.com/image/400/400/jfh54sw0/backpack/t/h/9/laptop-bags-men-mngvbn-laptop-backpack-new-era-original-imaf3xvezymt6bsw.jpeg?q=90'
     },
     { id: 3, 
       name: 'PRO Hoodie', 
       price: 899, 
-      image: 
-'https://www.myntra.com/sweatshirts/highlander/highlander-men-navy-blue-solid-hooded-sweatshirt/13137068/buy?utm_source=dms_bing_shopping&utm_medium=bing_cpc_shopping&utm_campaign=Bing-Topwear-Shopping-Test&msclkid=94ddd451ad1f162c2cf5b18079a1a6d0&utm_term=4578847494411649&utm_content=Topwear-%20Sweatshirts'
-    }
+      image:
+'https://m.media-amazon.com/images/I/51ROWxWCC7L._AC_UY1100_.jpg'}
 ]);
 
 const [cartCourses, setCartCourses] = useState([]);
